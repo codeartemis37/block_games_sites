@@ -23,4 +23,5 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
-0.0.0.0 siedegamingrandom.com
+0.0.0.0 sitedegamingrandom.com
+0.0.0.0 stabbfish.io
